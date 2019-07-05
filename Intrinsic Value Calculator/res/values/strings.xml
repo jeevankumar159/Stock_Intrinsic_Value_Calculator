@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DCF</string>
+    <string name="refresh">refresh</string>
+    <string-array name="titles">
+        <item>Stocks</item>
+        <item>Property</item>
+    </string-array>
+</resources>
